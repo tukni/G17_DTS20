@@ -1,8 +1,76 @@
 /*========untuk tablet========*/
 @media (max-width:1000px) {
+    .list-jasa {
+        width:50%;
+        margin:10px;
     }
+    .jargon {
+        font-size:32px;
+    }
+    .products {
+        width:50%;
+        margin:10px;
+    }
+    .product-title {
+        font-size:20px;
+    }
+    .projects-review {
+        width:50%
+    }
+    .quotes h1 {
+        font-size:32px;
+    }
+    .quotes p {
+        font-size:20px;
+    }
+    .quotes h3 {
+        font-size:32px;
+    }
+    
+}
     
     
 /*========untuk smartphone========*/  
 @media (max-width:670px) {
+    .container ul {
+        display:none;
     }
+    .menu-icon {
+        display:block;
+    }
+    .list-jasa {
+        width:100%;
+        margin-bottom:10px
+    }
+    .jargon {
+        font-size:24px;
+        line-height:36px;
+    }
+    .sub-jargon {
+        font-size:14px;
+        line-height:20px;
+    }
+    .btn-join {
+        width:100%;
+    }
+    .product-title {
+        text-align:center;
+        font-size:14px;
+    }
+    .products {
+        width:100%;
+        margin-bottom:10px;
+    }
+    .projects-review {
+        width:100%;
+    }
+    .quotes h1 {
+        font-size:24px;
+    }
+    .quotes p {
+        font-size:14px;
+    }
+    .quotes h3 {
+        font-size:24px;
+    }
+}
