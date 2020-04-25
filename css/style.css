@@ -6,7 +6,9 @@
 
 
 /*============================= Header ==================== */
-
+.container {
+    width:100%;
+}
 header {
  background: linear-gradient(rgba(255, 255, 255, 0), rgba(164, 79, 197, 0.95)), url("../images/2860938.jpg");
     height: 750px;
